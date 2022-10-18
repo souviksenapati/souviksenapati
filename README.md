@@ -9,5 +9,5 @@
 souviksenapati/souviksenapati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Souvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=souviksenapati&show_icons=true&theme=dark&title_color=39FF14&text_colour=2C9D39)](https://github.com/souviksenapati/github-readme-stats)
+[![Souvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=souviksenapati&show_icons=true&theme=dark&title_color=39FF14&text_color=2C9D39)](https://github.com/souviksenapati/github-readme-stats)
 [![@souviksenapati's Holopin board](https://holopin.me/souviksenapati)](https://holopin.io/@souviksenapati)

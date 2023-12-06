@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Souvik Senapati
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Data Structures and Algorithms
-- 💞️ How to reach me Twitter- @souvik_senapati
+- 💞️ How to reach me Linkedin- @souvik-senapati
                      Instagram- @souvik_senapati
+  
 
 <!---
 souviksenapati/souviksenapati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

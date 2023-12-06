@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Souvik Senapati
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Data Structures and Algorithms
-- 💞️ I'm looking to collaborate on ______
-- 📫 How to reach me Twitter- @souvik_senapati
+- 💞️ How to reach me Twitter- @souvik_senapati
                      Instagram- @souvik_senapati
 
 <!---

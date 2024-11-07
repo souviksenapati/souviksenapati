@@ -27,7 +27,7 @@
 # My Contributions vs 🐍
 <div>
   <div align = "center">
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/coolCoderD/coolCoderD/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/souviksenapati/souviksenapati/output/github-contribution-grid-snake-dark.svg" />
   </div>
   <br/>
 </div>
@@ -35,9 +35,9 @@
 
 # 📊 GitHub Stats:
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=coolCoderD&theme=omni&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 32%;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coolCoderD&theme=omni&hide_border=false" alt="GitHub Streak" style="width: 32%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coolCoderD&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 32%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=souviksenapati&theme=omni&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 32%;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=souviksenapati&theme=omni&hide_border=false" alt="GitHub Streak" style="width: 32%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souviksenapati&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 32%;">
 </div>
 
 

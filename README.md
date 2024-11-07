@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hello👋, I'm Souvik Senapati</h1>
-<h4 align="center">I am a software developer from India. I'm B.Tech AI&ML 3rd year student at NSEC, Kolkata. I like to code and develop things :)</h4>
+<h3 align="center">I am a software developer from India. I'm B.Tech AI&ML 3rd year student at NSEC, Kolkata. I like to code and develop things :)</h3>
 
 
 # 💫 About Me:

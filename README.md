@@ -34,10 +34,11 @@
 
 
 # 📊 GitHub Stats:
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between; gap: 0; margin: 0; padding: 0;">
   <img src="https://github-readme-stats.vercel.app/api?username=souviksenapati&theme=omni&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 32%;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=souviksenapati&theme=omni&hide_border=false" alt="GitHub Streak" style="width: 32%;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=souviksenapati&theme=omni&hide_border=false" alt="GitHub Streak" style="width: 35%;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souviksenapati&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 32%;">
+
 </div>
 
 

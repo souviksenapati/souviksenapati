@@ -15,7 +15,7 @@
 
 # 🌐 Get In Touch:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souvik-senapati/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF4301.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://souviksenapati.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF4301.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://souviksenapati.tech/)
 
 
 

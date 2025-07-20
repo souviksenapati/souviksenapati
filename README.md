@@ -24,13 +24,13 @@
 
 
 
-# My Contributions vs 🐍
+<!-- # My Contributions vs 🐍
 <div>
   <div align = "center">
     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/souviksenapati/souviksenapati/output/github-contribution-grid-snake-dark.svg" />
   </div>
   <br/>
-</div>
+</div> -->
 
 
 # 📊 GitHub Stats:

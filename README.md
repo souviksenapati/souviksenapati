@@ -10,6 +10,8 @@
 ✨ I’m currently working on MERN and Machine Learning <br>💫 I’m looking to collaborate on full stack projects<br>💬 Ask me about DSA <br>
 
 📫 How to reach me **souviksenapati85@gmail.com**
+📫 Check my work **(https://souviksenapati.dev/)**
+
 
 
 
